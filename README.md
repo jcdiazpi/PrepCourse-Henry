@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Ejemplo del modulo 2 del curso de Henry
+Este proyecto es un ejemplo de como crear un repositorio y clonarlo desde gitHUB a mi escritorio.
